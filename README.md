@@ -67,12 +67,12 @@ And Please ensure your file includes the following content:
 
 | Field | Content |
 | :--- | :--- |
-| **Contributor** | [Your Name] |
-| **Data Source** | [Source Name & URL, e.g., Project Gutenberg (http://...)] |
-| **Domain/Category** | [e.g., Literature / Sentiment Analysis / Medical / Dialogue] |
-| **Language** | [e.g., English (Early Modern) / zh-CN] |
-| **Data Scale** | [e.g., 154 Sonnets / 5MB / 10k lines] |
-| **File Format** | [.txt / .jsonl / .csv] |
+| **Contributor** | Lihong Luo] |
+| **Data Source** | [] |
+| **Domain/Category** | [] |
+| **Language** | [EN] |
+| **Data Scale** | [] |
+| **File Format** | [.csv] |
 
 ### 2. Dataset Introduction
 Briefly describe what this dataset contains, its characteristics, how you obtained it and what research question you plan to use it for.
